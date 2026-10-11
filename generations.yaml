@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_CLK-Class"
+
+generations:
+  - name: "First Generation (C208/A208)"
+    start_year: 1997
+    end_year: 2003
+    description: "The first CLK coupe and cabriolet, based on the W202 C-Class."
+  - name: "Second Generation (C209/A209)"
+    start_year: 2002
+    end_year: 2010
+    description: "The second CLK coupe and cabriolet, based on the W203 C-Class."
